@@ -1,5 +1,5 @@
 import java.util.Arrays;
-public class TugasKedua {
+public class Array {
     public static void main (String [] args) {
         int [] angka = {23, 6, 47, 35, 2, 14};
         Arrays.sort(angka);
